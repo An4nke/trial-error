@@ -1,1 +1,1 @@
-# trial-error
+# learning C++
